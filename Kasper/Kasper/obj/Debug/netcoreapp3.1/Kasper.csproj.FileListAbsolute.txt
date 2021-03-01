@@ -1,0 +1,13 @@
+C:\Users\zadee\source\repos\Kasper\Kasper\obj\Debug\netcoreapp3.1\Kasper.csprojAssemblyReference.cache
+C:\Users\zadee\source\repos\Kasper\Kasper\obj\Debug\netcoreapp3.1\Kasper.AssemblyInfoInputs.cache
+C:\Users\zadee\source\repos\Kasper\Kasper\obj\Debug\netcoreapp3.1\Kasper.AssemblyInfo.cs
+C:\Users\zadee\source\repos\Kasper\Kasper\obj\Debug\netcoreapp3.1\Kasper.csproj.CoreCompileInputs.cache
+C:\Users\zadee\source\repos\Kasper\Kasper\bin\Debug\netcoreapp3.1\Kasper.exe
+C:\Users\zadee\source\repos\Kasper\Kasper\bin\Debug\netcoreapp3.1\Kasper.deps.json
+C:\Users\zadee\source\repos\Kasper\Kasper\bin\Debug\netcoreapp3.1\Kasper.runtimeconfig.json
+C:\Users\zadee\source\repos\Kasper\Kasper\bin\Debug\netcoreapp3.1\Kasper.runtimeconfig.dev.json
+C:\Users\zadee\source\repos\Kasper\Kasper\bin\Debug\netcoreapp3.1\Kasper.dll
+C:\Users\zadee\source\repos\Kasper\Kasper\bin\Debug\netcoreapp3.1\Kasper.pdb
+C:\Users\zadee\source\repos\Kasper\Kasper\obj\Debug\netcoreapp3.1\Kasper.dll
+C:\Users\zadee\source\repos\Kasper\Kasper\obj\Debug\netcoreapp3.1\Kasper.pdb
+C:\Users\zadee\source\repos\Kasper\Kasper\obj\Debug\netcoreapp3.1\Kasper.genruntimeconfig.cache
